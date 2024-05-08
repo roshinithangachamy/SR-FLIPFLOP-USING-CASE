@@ -76,9 +76,11 @@ endmodule
 
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![sr rtl](https://github.com/roshinithangachamy/SR-FLIPFLOP-USING-CASE/assets/147118341/48c04a6c-0d0a-404f-9bf3-f397e7d6e497)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![sr wave](https://github.com/roshinithangachamy/SR-FLIPFLOP-USING-CASE/assets/147118341/73a0c16a-9d14-421c-8f1d-f7ab2799556a)
 
 **RESULTS**
