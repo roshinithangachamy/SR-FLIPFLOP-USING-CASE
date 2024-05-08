@@ -84,4 +84,5 @@ endmodule
 ![sr wave](https://github.com/roshinithangachamy/SR-FLIPFLOP-USING-CASE/assets/147118341/73a0c16a-9d14-421c-8f1d-f7ab2799556a)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
