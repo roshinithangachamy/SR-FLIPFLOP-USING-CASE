@@ -37,13 +37,20 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+```
+Step 1: Open Quartus II in your laptop.
+Step 2: Write code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+Step 3: Run compilation to check for errors.
+Step 4: Open waveform output and load input values.
+Step 5: Run simulation to get the output.
+Step 6: Open in RTL viewers to get RTL diagram output.
+```
 
 **PROGRAM**
 
 
-Developed by:T.ROSHINI
-RegisterNumber:212223230175
+## Developed by:T.ROSHINI
+## RegisterNumber:212223230175
 ```
 module sr_flipflop(q, q_bar, s, r, clk, reset);
   input s, r, clk, reset;
