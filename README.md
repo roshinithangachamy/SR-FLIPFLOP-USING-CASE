@@ -1,5 +1,5 @@
 **EX-6**
-<p align='center'><b>IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR CIRCUIT </b>
+## <p align='center'><b>SR-FLIPFLOP-USING-CASE</b>
 
 **DATE:**
 
